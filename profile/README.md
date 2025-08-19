@@ -1,4 +1,4 @@
-# Hi 👋, I'm CS Devs
+# Hi 👋, We are CS Devs
 
 This is the organization for dev ltools.
 
